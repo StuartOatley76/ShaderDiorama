@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c02ede6d73fa3a242bca7577797b7392, type: 3}
+  m_Name: CustomPostProcessingMaterials
+  m_EditorClassIdentifier: 
+  rainMat: {fileID: 2100000, guid: 29c89d7b91c816a41a233c9b3a6dd1dc, type: 2}

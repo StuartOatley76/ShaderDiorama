@@ -1,0 +1,28 @@
+Fences - Mobile Wooden Fences by Jaroslav Grafskiy - free on asset store
+https://assetstore.unity.com/packages/3d/props/exterior/mobile-wooden-fences-54772#content
+
+House - Medieval Buildings Modular by Lukas Bobor - free on asset store
+https://assetstore.unity.com/packages/3d/environments/historic/medieval-buildings-modular-176829
+
+Tree - Realistic Tree Pack Vol.1 by PolyFix - free on asset store
+https://assetstore.unity.com/packages/3d/vegetation/trees/realistic-tree-pack-vol-1-50418
+
+Fountain - Batuhan Oktay - free on turbosquid
+https://www.turbosquid.com/3d-models/fountain-water-architectural-3d-model-1384704#
+
+Textures for rain on windows
+Ben Cloward - Made available on his youtube channel. Adapted from water on the camera post processing effect
+
+https://www.youtube.com/watch?v=Ftpf87brKWg&t=475s
+https://www.youtube.com/watch?v=jfXJYPTdyAg&t=682s
+
+Texture for raindrops on water
+Poly toots - made available his on youtube channel. Usage adapted
+
+https://www.youtube.com/watch?v=32VeEzhQ3Ys&t=2718s
+
+Patio texture - katsukagi - free on 3dTextures.me
+https://3dtextures.me/2016/09/06/stone-brick-pavement-003/
+
+water ripples texture - creator unknown - free on cadhatch.com
+https://www.cadhatch.com/seamless-water-textures
